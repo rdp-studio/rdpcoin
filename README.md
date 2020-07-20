@@ -1,6 +1,6 @@
 # RDP Coin
 
-That's a coin fork from cryptonote.Powerd By RDPStudio!
+RDP Coin is a Digital currency.
 
 ## Building RDP Coin 
 
